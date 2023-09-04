@@ -256,5 +256,25 @@
 	"gui.sgjourney.unique_symbols": "Unique Symbols",
 	"gui.sgjourney.use_movie_stargate_model": "Use Movie Stargate Model",
 	"gui.sgjourney.milky_way_stargate_back_lights_up": "Milky Way Stargate Back",
-	"gui.sgjourney.pegasus_stargate_back_lights_up": "Pegasus Stargate Back"
+	"gui.sgjourney.pegasus_stargate_back_lights_up": "Pegasus Stargate Back",
+
+	"sounds.sgjourney.universe_ring_spin": "Universe Stargate dialing",
+	"sounds.sgjourney.universe_chevron_engage": "Universe chevron engaged",
+	"sounds.sgjourney.universe_dial_fail": "Universe Stargate failed",
+	"sounds.sgjourney.milky_way_ring_spin": "Stargate dialing",
+	"sounds.sgjourney.milky_way_ring_spin_start": "Engaging Stargate",
+	"sounds.sgjourney.milky_way_chevron_encode": "Stargate chevron encoded",
+	"sounds.sgjourney.milky_way_chevron_engage": "Stargate chevron engaged",
+	"sounds.sgjourney.dial_fail": "Stargate failed",
+	"sounds.sgjourney.pegasus_ring_spin": "Pegasus Stargate dialing",
+	"sounds.sgjourney.pegasus_chevron_engage": "Pegasus chevron engaged",
+	"sounds.sgjourney.pegasus_dial_fail": "Pegasus Stargate failed",
+	"sounds.sgjourney.tollan_chevron_engage": "Tollan chevron engaged",
+	"sounds.sgjourney.tollan_dial_fail": "Tollan Stargate failed",
+	"sounds.sgjourney.wormhole_close": "Stargate wormhole closing",
+	"sounds.sgjourney.wormhole_enter": "Wormhole entered",
+	"sounds.sgjourney.wormhole_idle": "Stargate idles",
+	"sounds.sgjourney.milky_way_dhd_enter": "DHD code entered",
+	"sounds.sgjourney.milky_way_dhd_press": "DHD button pressed",
+	"sounds.sgjourney.matok_fire": "Naquadah staff fired"
 }

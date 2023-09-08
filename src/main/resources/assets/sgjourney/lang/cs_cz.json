@@ -205,4 +205,24 @@
 	
 	"message.sgjourney.stargate.one_way_wormhole": "Nen\u00ed mo\u017en\u00e9 proj\u00edt \u010derv\u00ed d\u00edrou t\u00edmto sm\u011brem",
 	"message.sgjourney.stargate.symbol_encoded": "Symbol byl ji\u017e zad\u00e1n"
+
+	"sounds.sgjourney.universe_ring_spin": "Vytáčení Vesmírné Hvězné brány",
+	"sounds.sgjourney.universe_chevron_engage": "Vesmírný chevron zapnut",
+	"sounds.sgjourney.universe_dial_fail": "Hvězdná brána selhala",
+	"sounds.sgjourney.milky_way_ring_spin": "Vytáčení Hvězdné brány",
+	"sounds.sgjourney.milky_way_ring_spin_start": "Zapojení Hvězdné brány",
+	"sounds.sgjourney.milky_way_chevron_encode": "Chevron Hvězdné brány zakódován",
+	"sounds.sgjourney.milky_way_chevron_engage": "Chevron Hvězdné brány zapnut",
+	"sounds.sgjourney.dial_fail": "Hvězdná brána neuspěšná",
+	"sounds.sgjourney.pegasus_ring_spin": "Vytáčení Hvězdné brány Pegasus",
+	"sounds.sgjourney.pegasus_chevron_engage": "Pegasus chevron zapnutý",
+	"sounds.sgjourney.pegasus_dial_fail": "Hvězdná brána Pegasus neúspěšná",
+	"sounds.sgjourney.tollan_chevron_engage": "Tollan chevron zapnutý",
+	"sounds.sgjourney.tollan_dial_fail": "Hvězdná brána Tollan neúspěšná",
+	"sounds.sgjourney.wormhole_close": "Červí díra se uzavírá",
+	"sounds.sgjourney.wormhole_enter": "Červí díra vstoupena",
+	"sounds.sgjourney.wormhole_idle": "Hvězdná bráni neaktivní",
+	"sounds.sgjourney.milky_way_dhd_enter": "DHD kód zadán",
+	"sounds.sgjourney.milky_way_dhd_press": "DHD tlačítko stisknuto",
+	"sounds.sgjourney.matok_fire": "Naquadahová hůl vysřelena",
 }

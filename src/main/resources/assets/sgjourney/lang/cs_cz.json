@@ -204,7 +204,7 @@
 	"message.sgjourney.pda_has_naquadah_in_bloodstream": "M\u00e1 v krvi naquadah",
 	
 	"message.sgjourney.stargate.one_way_wormhole": "Nen\u00ed mo\u017en\u00e9 proj\u00edt \u010derv\u00ed d\u00edrou t\u00edmto sm\u011brem",
-	"message.sgjourney.stargate.symbol_encoded": "Symbol byl ji\u017e zad\u00e1n"
+	"message.sgjourney.stargate.symbol_encoded": "Symbol byl ji\u017e zad\u00e1n",
 
 	"sounds.sgjourney.universe_ring_spin": "Vytáčení Vesmírné Hvězné brány",
 	"sounds.sgjourney.universe_chevron_engage": "Vesmírný chevron zapnut",
@@ -224,5 +224,5 @@
 	"sounds.sgjourney.wormhole_idle": "Hvězdná bráni neaktivní",
 	"sounds.sgjourney.milky_way_dhd_enter": "DHD kód zadán",
 	"sounds.sgjourney.milky_way_dhd_press": "DHD tlačítko stisknuto",
-	"sounds.sgjourney.matok_fire": "Naquadahová hůl vysřelena",
+	"sounds.sgjourney.matok_fire": "Naquadahová hůl vysřelena"
 }
